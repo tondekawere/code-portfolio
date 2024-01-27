@@ -160,17 +160,14 @@ function Contact() {
           >
             <FiLinkedin />
           </a>
-          <a aria-label="Whatsapp Chat" href="https://wa.me/263783977875">
+          <a aria-label="Whatsapp Chat" href="https://wa.me/263782528050">
             <FaWhatsapp />
           </a>
           <a aria-label="Github profile" href="https://github.com/tondekawere">
             <FaGithub />
           </a>
           <p>
-            <a
-              href="https://export-download.canva.com/oeRFQ/DAE-ULoeRFQ/63/0-38780810706.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221022T041836Z&X-Amz-Expires=77296&X-Amz-Signature=a89ef86efae9fa086fc43778172f5502f79e3570a29a4834b1980bb3e5eeee84&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27tondekawere.pdf&response-expires=Sun%2C%2023%20Oct%202022%2001%3A46%3A52%20GMT"
-              download="Tonderai Kawere CV"
-            >
+            <a href="/" download="Tonderai Kawere CV">
               Download My CV
             </a>
           </p>

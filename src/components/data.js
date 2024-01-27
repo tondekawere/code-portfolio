@@ -3,44 +3,44 @@ export const projects = [
     webName: "Mweya",
     bgImage: "./images/projects/mweya.png",
     gitLink: "https://github.com/tondekawere/mweya",
-    siteLink: "https://arete-web-22b18.web.app/",
+    siteLink: "https://mweya.vercel.app/",
   },
 
   {
     webName: "Jumpstart",
     bgImage: "./images/projects/jump.png",
     gitLink: "https://github.com/tondekawere/jump",
-    siteLink: "https://tigzozo.web.app/",
+    siteLink: "https://jumpstart.vercel.app/",
   },
   {
     webName: "Tay Dylan",
     bgImage: "./images/projects/dylan.png",
     gitLink: "",
-    siteLink: "https://top-10-humans.web.app/",
+    siteLink: "https://tay.vercel.app/",
   },
   {
     webName: "Uncommon.org",
     bgImage: "./images/projects/uncommon.png",
     gitLink: "https://github.com/tondekawere/uncommon",
-    siteLink: "https://prolificboreholes.co.zw",
+    siteLink: "https://uncommon.vercel.app",
   },
   {
     webName: "Tonde's Portfolio",
     bgImage: "./images/projects/port.png",
     gitLink: "https://github.com/tondekawere/port",
-    siteLink: "https://africanliberation.museum",
+    siteLink: "https://port.vercel.app",
   },
   {
     webName: "Sidcup",
     bgImage: "./images/projects/golf.png",
     gitLink: "https://github.com/tondekawere/sidecup",
-    siteLink: "https://daas-africa.web.app/",
+    siteLink: "",
   },
   {
     webName: "My Portfolio",
     bgImage: "./images/projects/ton.png",
     gitLink: "https://github.com/tondekawere/sidecup",
-    siteLink: "https://daas-africa.web.app/",
+    siteLink: "https://ton.vercel.app",
   },
 ];
 
